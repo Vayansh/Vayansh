@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hi! 👋
 
 I'm Vayansh, a passionate ML Engineer from the Thapar Institute of Engineering and Technology. Welcome to my GitHub profile!
 
@@ -15,38 +15,13 @@ I'm Vayansh, a passionate ML Engineer from the Thapar Institute of Engineering a
 - 🔧 DSA(C++)
 - 🔧 Front-End Developer(HTML, CSS, React)
 
-## Projects
-
-### [Project 1]
-
-[Short description of the project]
-
-- 🌐 [Link to the project repository or deployed version]
-- 📝 [Any additional information or documentation]
-
-### [Project 2]
-
-[Short description of the project]
-
-- 🌐 [Link to the project repository or deployed version]
-- 📝 [Any additional information or documentation]
-
-...
-
 ## Connect with Me
 
-- 📧 Email: [Your Email Address]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [Your Twitter Handle]
-- 🌐 Personal Website: [Your Website]
+- 📧 Email: vgarg3_be21@thapar.edu
+- 💼 LinkedIn: linkedin.com/in/vayansh-garg/
+- 🐦 Kaggle: (https://www.kaggle.com/vayanshgarg)
+- 🌐 Personal Website: https://vgarg3be21.wixsite.com/my-site-1
 
-## Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ## Let's Collaborate!
 
