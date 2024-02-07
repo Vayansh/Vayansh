@@ -18,7 +18,7 @@ I'm Vayansh, a passionate ML Engineer from the Thapar Institute of Engineering a
 ## Connect with Me
 
 - 📧 Email: vgarg3_be21@thapar.edu
-- 💼 LinkedIn: linkedin.com/in/vayansh-garg/
+- 💼 LinkedIn: https://www.linkedin.com/in/vayansh-garg/
 - 🐦 Kaggle: https://www.kaggle.com/vayanshgarg
 - 🌐 Personal Website: https://vgarg3be21.wixsite.com/my-site-1
 
