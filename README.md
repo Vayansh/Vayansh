@@ -1,20 +1,19 @@
 # Hello, World! 👋
 
-I'm Vayansh, a passionate ML Engineer from Thapar Institute of Engineering and Technology. Welcome to my GitHub profile!
+I'm Vayansh, a passionate ML Engineer from the Thapar Institute of Engineering and Technology. Welcome to my GitHub profile!
 
 ## About Me
 
-- 💼 Currently working as [Your Current Job/Role] at [Your Company]
-- 🌱 I'm passionate about [Your Interests/Hobbies]
+- 🌱 I'm passionate about Deep Learning
 - 🚀 I love exploring new technologies and building cool projects
 - 📚 Constantly learning and evolving
 
 ## Skills
 
-- 🔧 [Skill 1]
-- 🔧 [Skill 2]
-- 🔧 [Skill 3]
-- ...
+- 🔧 Tensorflow-Keras
+- 🔧 Machine Learning
+- 🔧 DSA(C++)
+- 🔧 Front-End Developer(HTML, CSS, React)
 
 ## Projects
 
