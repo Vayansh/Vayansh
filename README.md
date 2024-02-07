@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm [Your Name], a passionate [Your Role/Title] from [Your Location]. Welcome to my GitHub profile!
+I'm Vayansh, a passionate ML Engineer from Thapar Institute of Engineering and Technology. Welcome to my GitHub profile!
 
 ## About Me
 
