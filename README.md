@@ -10,8 +10,11 @@ I'm Vayansh, a passionate ML Engineer from the Thapar Institute of Engineering a
 
 ## Skills
 
+- 🔧 Pytorch
 - 🔧 Tensorflow-Keras
 - 🔧 Machine Learning
+- 🔧 Python
+- 🔧 SQL (MySQL / PostgreSQL)
 - 🔧 DSA(C++)
 - 🔧 Front-End Developer(HTML, CSS, React)
 
